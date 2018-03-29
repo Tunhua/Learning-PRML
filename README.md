@@ -26,6 +26,11 @@ My learning log of PRML
     cd Learning-PRML
 
 
+#Reference
+
+https://qiita.com/ctgk/items
+
+
 #Author
 
 Tunhua Tian 
